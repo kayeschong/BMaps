@@ -1,0 +1,1 @@
+Had problems with starting the project because I could not install java 10 on my computer, had to work with java 1.8.
